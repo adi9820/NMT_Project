@@ -1,0 +1,29 @@
+Neural Machine Translation
+Your Task is to:
+1. Build a Neural Machine Translation model.
+2. Evaluate your model using BLEU score.
+Dataset: http://www.manythings.org/anki/fra-eng.zip
+Notes
+1. You can resubmit till your code is not evaluated by TA.
+2. Refer notes for hint.
+Comments : Your code must have proper comments for better understanding.
+Score : Score will be given by the TA based on your submission.
+Submission : You have to upload zip file which has the .ipynb notebook with implementation and dataset used.
+Your project will be evaluated on following parameters -
+Innovation (Max Score 10)
+Generating translated text and BLEU score (Max Score 30)
+Architecture of LSTM Encoder-Decoder model (Max Score 40)
+Data Cleaning and Comments (Max Score 20)
+
+
+
+
+Evaluation Criteria (Total Score: 100)
+Innovation
+Score: 10
+Generating translated text and BLEU score
+Score: 30
+Architecture of LSTM Encoder-Decoder model
+Score: 40
+Data Cleaning and Comments
+Score: 20
